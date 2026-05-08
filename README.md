@@ -1,8 +1,8 @@
 ## Hi there 👋
-👩‍💻I'm a Product Integration Manager currently experimenting with coding. 
-💻 Working on an app in React Native
-🕸️Previous light experience with Django
-👾I'm currently learning about GitHub, React Native, AI
+## 👩‍💻I'm a Product Integration Manager currently experimenting with coding. 
+## 💻 Working on an app in React Native
+## 🕸️Previous light experience with Django
+## 👾I'm currently learning about GitHub, React Native, AI
 
 <!--
 **junonis/junonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
